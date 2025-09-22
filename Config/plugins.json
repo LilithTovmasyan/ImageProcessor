@@ -1,0 +1,6 @@
+{
+  "plugins": {
+    "resize": "ImageProcessor.Effects.ResizeEffect, ImageProcessor",
+    "blur": "ImageProcessor.Effects.BlurEffect, ImageProcessor",
+  }
+}

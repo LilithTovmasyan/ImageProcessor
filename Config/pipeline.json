@@ -1,0 +1,45 @@
+{
+  "images": [
+    {
+      "id": "Image#1",
+      "width": 640,
+      "height": 480,
+      "effects": [
+        {
+          "key": "resize",
+          "params": { "width": 100 }
+        },
+        {
+          "key": "blur",
+          "params": { "radius": 2 }
+        }
+      ]
+    },
+    {
+      "id": "Image#2",
+      "width": 800,
+      "height": 600,
+      "effects": [
+        {
+          "key": "resize",
+          "params": { "width": 100 }
+        }
+      ]
+    },
+    {
+      "id": "Image#3",
+      "width": 1024,
+      "height": 768,
+      "effects": [
+        {
+          "key": "resize",
+          "params": { "width": 150 }
+        },
+        {
+          "key": "blur",
+          "params": { "radius": 5 }
+        }
+      ]
+    }
+  ]
+}
